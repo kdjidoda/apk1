@@ -1,0 +1,5 @@
+C:\Users\Korisnik\source\repos\aplikacija1\obj\Debug\aplikacija1.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\aplikacija1\obj\Debug\aplikacija1.MainForm.resources
+C:\Users\Korisnik\source\repos\aplikacija1\obj\Debug\aplikacija1.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\aplikacija1\obj\Debug\aplikacija1.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\aplikacija1\obj\Debug\aplikacija1.csproj.CoreCompileInputs.cache
